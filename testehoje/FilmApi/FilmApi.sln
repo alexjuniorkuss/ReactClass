@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Data", "Data\Data.csproj", "{BD8C097E-3217-4945-B01B-421A90410F78}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApiFilm", "WebApiFilm\WebApiFilm.csproj", "{7E267C4A-3BCC-46F1-849E-4B68FD5B89A3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BD8C097E-3217-4945-B01B-421A90410F78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD8C097E-3217-4945-B01B-421A90410F78}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD8C097E-3217-4945-B01B-421A90410F78}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD8C097E-3217-4945-B01B-421A90410F78}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7E267C4A-3BCC-46F1-849E-4B68FD5B89A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E267C4A-3BCC-46F1-849E-4B68FD5B89A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E267C4A-3BCC-46F1-849E-4B68FD5B89A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E267C4A-3BCC-46F1-849E-4B68FD5B89A3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E160BBD9-00D7-4806-B68D-8BFCDF781844}
+	EndGlobalSection
+EndGlobal
